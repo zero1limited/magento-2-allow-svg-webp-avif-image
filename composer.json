@@ -3,7 +3,7 @@
     "description": "Navigate Product Allow Svg, Webp and Avif Image Extension for Magento 2",
     "require": {
         "navigate/module-core": "*",
-        "php": "~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0"
+        "php": "~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0|~8.4.0"
     },
     "type": "magento2-module",
     "license": "proprietary",
